@@ -1,0 +1,21 @@
+td {
+  border: 1px solid black;
+}
+table {
+  border-collapse: collapse;
+}
+.info {
+  width: 600px;
+  background-color: aliceblue;
+  border-style: groove;
+  font-size: 18px;
+}
+.kontakt {
+  background-color: aliceblue;
+  border-style: ridge;
+  width: 500px;
+  text-align: center;
+}
+.span {
+  text-decoration: blue;
+}
